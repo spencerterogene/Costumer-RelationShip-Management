@@ -11,7 +11,7 @@ Sales Pipeline: You can track your sales opportunities through the different sta
 Reports: You can also generate simple reports to get insights into your customer interactions and sales performance.
 
 Facility
-Clone the repository: git clone https://github.com/spencerterogene/Costumer RelationShip Management.git
+Clone the repository: git clone https://github.com/spencerterogene/CostumerRelationShipManagement.git
 Navigate to the project directory: cd Customer RelationShip Management
 Open the solution file in Visual Studio or your favorite C# IDE.
 Build the project to restore NuGet packages and compile the application.
